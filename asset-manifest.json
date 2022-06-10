@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/login-react-redux/static/css/main.f1f6fee9.css",
+    "main.js": "/login-react-redux/static/js/main.1273dcc6.js",
+    "index.html": "/login-react-redux/index.html",
+    "main.f1f6fee9.css.map": "/login-react-redux/static/css/main.f1f6fee9.css.map",
+    "main.1273dcc6.js.map": "/login-react-redux/static/js/main.1273dcc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1f6fee9.css",
+    "static/js/main.1273dcc6.js"
+  ]
+}
