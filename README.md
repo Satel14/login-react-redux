@@ -1,3 +1,3 @@
 # login-react-redux
-Login: Admin
-Password: 1234
+#Login: Admin
+#Password: 1234
